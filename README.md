@@ -1,6 +1,4 @@
-# screenshots
-
-Random gaming screenshots
+# Random gaming screenshots
 
 Tess-is-fun
 ![Tess-is-fun](Tess-is-fun.png)

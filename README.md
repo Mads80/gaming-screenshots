@@ -12,4 +12,5 @@ goat-or-cheater-carry
 most-random-deck-win
 ![most-random-deck-win](most-random-deck-win.png)
 
+George-36hp-win
 ![George-36hp-win](George-36hp-win.png)

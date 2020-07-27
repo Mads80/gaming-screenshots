@@ -1,4 +1,4 @@
-# :joystick: Random gaming screenshots
+# Random gaming screenshots :joystick:
 
 Tess-is-fun
 ![Tess-is-fun](Tess-is-fun.png)

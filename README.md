@@ -1,7 +1,7 @@
 # :joystick: Random gaming screenshots
 
 Aesthetically-pleasing-dragon-deck-win
-![Aesthetically-pleasing-dragon-deck-win](Aesthetically-pleasing-dragon-deck-win.png)
+![Aesthetically-pleasing-dragon-deck-win](aesthetically-pleasing-dragon-deck-win.png)
 
 Tess-is-fun
 ![Tess-is-fun](Tess-is-fun.png)

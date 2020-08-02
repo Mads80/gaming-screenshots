@@ -1,4 +1,4 @@
-# :joystick: Random gaming screenshots
+# :joystick: Gaming screenshots
 
 Aesthetically-pleasing-dragon-deck-win
 ![Aesthetically-pleasing-dragon-deck-win](aesthetically-pleasing-dragon-deck-win.png)

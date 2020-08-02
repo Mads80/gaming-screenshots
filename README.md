@@ -9,10 +9,10 @@ Tess-is-fun
 Tess-is-stronk
 ![Tess-is-stronk](Tess-is-stronk.png)
 
-goat-or-cheater-carry
+GOAT-or-cheater-carry
 ![goat-or-cheater-carry](goat-or-cheater-carry.png)
 
-most-random-deck-win
+Most-random-deck-win
 ![most-random-deck-win](most-random-deck-win.png)
 
 George-36hp-win

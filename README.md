@@ -1,6 +1,6 @@
 # :joystick: Gaming screenshots
 
-Aesthetically-pleasing-dragon-deck-win
+Tess-easy-murlocs
 ![Tess-easy-murlocs](tess-easy-murlocs.png)
 
 Aesthetically-pleasing-dragon-deck-win

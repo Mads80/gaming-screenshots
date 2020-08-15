@@ -1,5 +1,8 @@
 # :joystick: Gaming screenshots
 
+murloc-vs-murloc-win-vs-Tess
+![murloc-vs-murloc-win-vs-Tess](murloc-vs-murloc-win-vs-Tess.png)
+
 Tess-easy-murlocs
 ![Tess-easy-murlocs](tess-easy-murlocs.png)
 

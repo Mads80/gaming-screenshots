@@ -1,6 +1,9 @@
 # :joystick: Gaming screenshots
 
-almost-threw-this-one
+Kitty-beast-mode-win
+![kitty-beast-mode-win](kitty-beast-mode-win.png)
+
+Almost-threw-this-one
 ![almost-threw-this-one](almost-threw-this-one.png)
 
 murloc-vs-murloc-win-vs-Tess

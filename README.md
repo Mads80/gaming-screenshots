@@ -1,5 +1,8 @@
 # :joystick: Gaming screenshots
 
+pretty-big-Garr
+![pretty-big-Garr](pretty-big-Garr.png)
+
 Kitty-beast-mode-win
 ![kitty-beast-mode-win](kitty-beast-mode-win.png)
 
